@@ -34,6 +34,7 @@ func update_score(score):
 func _on_start_button_pressed():
 	$StartButton.hide()
 	start_game.emit()
+	
  # Replace with function body.
 
 
